@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3amStoreAPI", "3amStoreAPI\3amStoreAPI.csproj", "{B2FBF8E2-DDC5-4B87-AB31-B02E6E8B512E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2FBF8E2-DDC5-4B87-AB31-B02E6E8B512E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2FBF8E2-DDC5-4B87-AB31-B02E6E8B512E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2FBF8E2-DDC5-4B87-AB31-B02E6E8B512E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2FBF8E2-DDC5-4B87-AB31-B02E6E8B512E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {293F684C-E0EE-48F2-BD42-D5027783EF13}
+	EndGlobalSection
+EndGlobal
